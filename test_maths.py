@@ -2,4 +2,4 @@ import maths
 
 
 def test_addup():
-    assert maths.addup(2, 3) == 6
+    assert maths.addup(2, 3) == 5
